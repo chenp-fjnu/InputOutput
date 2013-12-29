@@ -13,3 +13,5 @@ obj
 /InputOutput.UnitTest/obj
 x64
 x86
+
+/InputOutput/*.user
