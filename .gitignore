@@ -3,3 +3,13 @@ packages
 /InputOutput.v11.suo
 
 /InputOutput/InputOutput.v11.suo
+bin
+obj
+/InputOutput/x64
+/InputOutput/x86
+/InputOutput/bin
+/InputOutput/obj
+/InputOutput.UnitTest/bin
+/InputOutput.UnitTest/obj
+x64
+x86
